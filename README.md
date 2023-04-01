@@ -1,5 +1,5 @@
 # Big_Ideas_Final
-Kevin Burkhardt, Heather Diegert, Aidan Kennedy final project repo
+Kevin Burkhardt, Heather Diegert, Aidan Kennedy Big Ideas Final Project Repo
 
 Description and links to the datasets used:
 
