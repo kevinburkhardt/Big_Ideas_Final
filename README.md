@@ -6,7 +6,6 @@ kcb47@pitt.edu | had78@pitt.edu | apk82@pitt.edu
 ---
 
 ## Description
----
 The three metrics that we chose are arrest data compared to population, number of parks in each neighborhood, and blood-lead levels in school districts.
 
 ##Links to the datasets used:
