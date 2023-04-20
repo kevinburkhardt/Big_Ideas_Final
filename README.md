@@ -9,7 +9,6 @@ kcb47@pitt.edu | had78@pitt.edu | apk82@pitt.edu
 The three metrics that we chose are arrest data compared to population, number of parks in each neighborhood, and blood-lead levels in school districts.
 
 ## Links to the datasets used:
----
 * link for blood-lead levels:
   * https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates
 
