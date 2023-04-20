@@ -1,6 +1,6 @@
 # Big_Ideas_Final Group FBGM
 
-Kevin Burkhardt, Heather Diegert, Aidan Kennedy Big Ideas Final Project Repo
+Kevin Burkhardt, Heather Diegert, Aidan Kennedy Big Ideas Final Project
 ---
 kcb47@pitt.edu | had78@pitt.edu | apk82@pitt.edu
 ---
