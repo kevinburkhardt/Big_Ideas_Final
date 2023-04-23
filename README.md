@@ -1,4 +1,4 @@
-# Big_Ideas_Final Group #22 **FBGM**
+# Big_Ideas_Final Group #22 *FBGM*
 
 Kevin Burkhardt, Heather Diegert, Aidan Kennedy Big Ideas Final Project
 ---
