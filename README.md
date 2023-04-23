@@ -3,8 +3,9 @@
 Kevin Burkhardt, Heather Diegert, Aidan Kennedy Big Ideas Final Project
 ---
 
-kcb47@pitt.edu | had78@pitt.edu | apk82@pitt.edu
-kcb47.ipynb    | had78.ipynb    | 
+kcb47@pitt.edu | had78@pitt.edu | apk82@pitt.edu | 
+---
+kcb47.ipynb    | had78.ipynb    | Apk82-Final-Project-Notebook.ipynb|
 ---
 
 ## Description
