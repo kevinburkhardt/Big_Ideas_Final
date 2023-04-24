@@ -10,6 +10,7 @@ kcb47.ipynb    | had78.ipynb    | apk82.ipynb|
 
 ## Description
 The three metrics that we chose are arrest data compared to population, number of parks in each neighborhood, and blood-lead levels in school districts.
+We have 4 python notbooks in this repository, one where all of our individual ones where combined, and one personal notebook from each member of our group, there is also a powerpoint file of our presentation slides.
 
 ## Links to the datasets used:
 * link for blood-lead levels:
