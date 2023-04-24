@@ -22,4 +22,4 @@ The three metrics that we chose are arrest data compared to population, number o
   * https://data.wprdc.org/dataset/pgh/resource/8ac5c768-09ba-43a8-829f-ce4a417d20fb
 
 * link for parks in pittsburgh:
-  * https://data.wprdc.org/datastore/dump/fa329e3d-89ff-4708-8ddf-81bfedcad11d
+  * https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
